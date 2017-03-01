@@ -1,0 +1,12 @@
+{
+  "name": "makingchampions",
+  "version": "1.0.0",
+  "description": "Inspiring Christians to do bold things for the sake of the Gospel",
+  "main": "app.js",
+  "author": "Evangelist Estevan Montoya",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.1",
+    "pug": "^2.0.0-beta11"
+  }
+}
