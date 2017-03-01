@@ -1,6 +1,5 @@
-extends _head
+extends layout
+
 block content
-  //- body start here
-  .container
-      h1.title #{title}
-      h2.subtitle #{shortDesc}
+  h1= title
+  p Welcome to #{title}
